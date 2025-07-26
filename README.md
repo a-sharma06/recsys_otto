@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Akshay Sharma**
-- Data Scientist specializing in recommendation systems and e-commerce analytics
+- Data Scientist
 - Expertise in large-scale data processing and machine learning
 
 ---
