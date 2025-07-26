@@ -135,6 +135,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Data Scientist
 - Expertise in large-scale data processing and machine learning
 
+**Raymond Hartjen**
+- UX Researcher
+- Anthropologist turned UX Researcher, committed to integrating a humanistic perspective and anthropological theory into iterative design processes
+
 ---
 
 *This project demonstrates advanced data science capabilities in e-commerce analytics, recommendation systems, and large-scale data processing - ideal for roles in data science, machine learning engineering, and business intelligence.*
