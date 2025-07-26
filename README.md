@@ -95,7 +95,7 @@ recsys_otto/
 
 - **Big Data Processing**: Efficient handling of 13M+ sessions and 217M+ events using chunked processing
 - **Memory Optimization**: Sparse matrix implementations for co-occurrence analysis (99.97% sparse)
-- **Statistical Rigor**: Comprehensive statistical analysis with confidence intervals and significance testing
+- **Statistical Rigor**: Comprehensive statistical analysis
 - **Scalable Architecture**: Modular code design supporting multiprocessing and distributed computing extensions
 
 ## 📊 Sample Results
@@ -109,7 +109,7 @@ recsys_otto/
 
 **Data Science:**
 - Exploratory Data Analysis (EDA)
-- Statistical Analysis & Hypothesis Testing
+- Statistical Analysis
 - Time Series Analysis
 - Recommendation System Analytics
 
